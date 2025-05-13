@@ -8,4 +8,4 @@ export default defineConfig({
     open: true,
   },
   base: "/TextEditor/",
-});
+  });
