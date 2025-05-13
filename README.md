@@ -1,9 +1,9 @@
-How to run the projects 
+//How to run the projects 
 
 //To start the server 
-cd server
-nodemon index.js
+//cd server
+//nodemon index.js
 
 //To run the frontend 
-cd client 
-npm start
+//cd client 
+//npm start
