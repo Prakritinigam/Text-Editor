@@ -1,2 +1,2 @@
 Author Name: Prakriti Nigam
-Project Name: Text Editor
+Project Name: Text Editor App
